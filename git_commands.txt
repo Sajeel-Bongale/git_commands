@@ -8,3 +8,5 @@ git push -u origin master (To push local changes to remote)
 
 <---- CONFLICTING MESSAGE ---->
 <---- Featue Message --->
+
+Some new changes to stage
